@@ -17,6 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           # Options
+          user: MannyCooper
           config_display: columns
           plugin_languages: yes
           plugin_stars: yes
