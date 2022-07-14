@@ -19,6 +19,6 @@ jobs:
           # Options
           user: MannyCooper
           plugin_languages: yes
-          plugin_stars: yes
-          plugin_stars_limit: 4
+#           plugin_stars: yes
+#           plugin_stars_limit: 4
 #           config_display: columns
